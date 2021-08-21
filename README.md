@@ -1,3 +1,3 @@
 # gitskills
 learn git
-create a new branch too much 
+create a new branch is quick too much
